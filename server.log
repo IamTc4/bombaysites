@@ -1,0 +1,14 @@
+
+> bombay-sites@0.1.0 dev
+> next dev --port 3000
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+
+✓ Starting...
+✓ Ready in 1909ms
+○ Compiling / ...
+ GET / 200 in 4.8s (compile: 4.1s, render: 714ms)
+ GET /properties 200 in 870ms (compile: 699ms, render: 171ms)
+ GET /admin 200 in 800ms (compile: 571ms, render: 230ms)
